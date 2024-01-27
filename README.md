@@ -1,6 +1,6 @@
 ### About Me
 
-- B.S. Mathematics, concetrated in Computer Science
+- B.S. Mathematics, concetrated in Computation
 - Currently applying to graduate schools, pursuing a Masters in Computer Science
 
 
