@@ -56,6 +56,4 @@ HTML                     17 mins             █░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
-
- Last Updated on 28/02/2024 04:21:08 UTC
 <!--END_SECTION:waka-->
