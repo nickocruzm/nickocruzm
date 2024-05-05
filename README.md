@@ -6,7 +6,7 @@
 
 ### WEEKLY STATS
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2028%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -24,10 +24,10 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        █████████████████████░░░░   83.87 % 
-CSV                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   2 hrs 40 mins       ██████████████████████░░░   86.46 % 
+CSV                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **Timeline**
@@ -35,5 +35,5 @@ Other                    0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 08:20:42 UTC
+ Last Updated on 05/05/2024 10:17:54 UTC
 <!--END_SECTION:waka-->
