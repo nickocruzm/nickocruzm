@@ -1,7 +1,7 @@
 ### About Me
 
 - B.S. Mathematics, concetrated in Computation
-- Pursuing a MS degree in Computer Science
+- MS Computer Science at UCR
 
 
 ### WEEKLY STATS
