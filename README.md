@@ -6,15 +6,15 @@
 
 ### WEEKLY STATS
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2013%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌆 Daytime                790 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌃 Evening                1250 commits        █████████████░░░░░░░░░░░░   53.76 % 
-🌙 Night                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+🌆 Daytime                790 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 Evening                1250 commits        █████████████░░░░░░░░░░░░   53.72 % 
+🌙 Night                  213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 ```
 
 
@@ -36,5 +36,5 @@ Bash                     6 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 10:18:44 UTC
+ Last Updated on 09/06/2024 12:33:41 UTC
 <!--END_SECTION:waka-->
