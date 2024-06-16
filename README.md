@@ -6,7 +6,7 @@
 
 ### WEEKLY STATS
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2044%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,5 +36,5 @@ CSS                      8 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 02:37:17 UTC
+ Last Updated on 16/06/2024 04:21:45 UTC
 <!--END_SECTION:waka-->
