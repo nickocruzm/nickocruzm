@@ -4,7 +4,7 @@
 - MS Computer Science at UCR
 
 
-### WEEKLY STATS
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2051%20mins-blue)
 
