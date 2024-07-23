@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2052%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -24,10 +24,9 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       █████████████████░░░░░░░░   69.72 % 
-Python                   41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 3 hrs 17 mins       ██████████████████████░░░   86.65 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 **Timeline**
@@ -35,5 +34,5 @@ C++                      1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 08:26:17 UTC
+ Last Updated on 23/07/2024 10:20:20 UTC
 <!--END_SECTION:waka-->
