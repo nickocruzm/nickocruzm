@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,5 +36,5 @@ C                        2 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nickocruzm/nickocruzm/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2024 06:26:06 UTC
+ Last Updated on 04/08/2024 08:21:59 UTC
 <!--END_SECTION:waka-->
