@@ -4,7 +4,7 @@
 - MS Computer Science at UCR
 
 
-## Weekly Stats
+## Daily Stats
 
 <!--START_SECTION:waka-->
 
