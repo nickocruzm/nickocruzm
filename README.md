@@ -1,6 +1,6 @@
 ### About Me
 
-- B.S. Mathematics, concentrated in Computation
+- B.S. Mathematics
 - MS Computer Science at UCR
 
 <h2> 🚀 &nbsp;Arsenal</h2>
