@@ -18,7 +18,7 @@
           
 </p>
 
-## Daily Stats
+## Weekly Stats
 
 <!--START_SECTION:waka-->
 
