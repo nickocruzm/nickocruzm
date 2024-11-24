@@ -1,7 +1,7 @@
 ### About Me
 
 - B.S. Mathematics
-- MS Computer Science at UCR
+- MS Computer Science
 
 <h2> 🚀 &nbsp;Arsenal</h2>
 
