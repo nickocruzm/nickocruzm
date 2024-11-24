@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              2 hrs 10 mins   █████████████▒░░░░░░░░░░░   52.84 %
-Python             1 hr 17 mins    ████████░░░░░░░░░░░░░░░░░   31.47 %
-ActionScript       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Jupyter Notebook   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Ezhil              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other              7 hrs 18 mins   ██████████████████████▒░░   89.42 %
+Python             40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Jupyter Notebook   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Jupyter            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
