@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          10 hrs 53 mins  ██████████████░░░░░░░░░░░   55.51 %
-Python         5 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 %
-Assembly       2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Markdown       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-ActionScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other          10 hrs 42 mins  █████████████▓░░░░░░░░░░░   54.09 %
+Python         5 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.00 %
+Assembly       2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Markdown       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+ActionScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
