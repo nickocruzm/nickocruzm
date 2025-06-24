@@ -18,13 +18,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width = "45" height = "45"/>
           
 </p>
-
-## Weekly Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Other   2 hrs 30 mins   █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
