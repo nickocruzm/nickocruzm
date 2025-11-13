@@ -4,9 +4,6 @@
 - B.S. Mathematics
 - MS Computer Science
 
-### Projects
-- Partner and I developed an algorithmic stock trading strategy, successfully raised capital for strategy's execution. Strategy is expected to go Live (Nov. 01, 2025)
-
 
 ### Publications
 https://alzres.biomedcentral.com/articles/10.1186/s13195-025-01863-y
