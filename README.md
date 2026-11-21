@@ -6,7 +6,7 @@
 
 
 ### Publications
-https://alzres.biomedcentral.com/articles/10.1186/s13195-025-01863-y
+[Alzheimer's Research & Therapy](https://alzres.biomedcentral.com/articles/10.1186/s13195-025-01863-y)
 
 ### Links
 https://www.linkedin.com/in/nickocruzm/
